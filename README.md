@@ -6,6 +6,12 @@ just bumps the patch version of `deno.json`
 deno run --allow-read=deno.json --allow-write=deno.json jsr:@hashrock/bump
 ```
 
+or just
+
+```bash
+deno run -A jsr:@hashrock/bump
+```
+
 # Options
 
 bump minor version
