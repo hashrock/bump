@@ -2,6 +2,9 @@
 
 just bumps the patch version of `deno.json`
 
+[![JSR](https://jsr.io/badges/@hashrock/bump)](https://jsr.io/@hashrock/bump)
+
+
 ```bash
 deno run --allow-read=deno.json --allow-write=deno.json jsr:@hashrock/bump
 ```
