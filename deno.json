@@ -2,7 +2,7 @@
   "tasks": {
     "dev": "deno run --watch main.ts"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "name": "@hashrock/bump",
   "exports": {
     ".": "./cli.ts"
