@@ -12,6 +12,12 @@ or just
 deno run -A jsr:@hashrock/bump
 ```
 
+or install as a `hr-bump` command
+
+```bash
+deno install --allow-read=deno.json --allow-write=deno.json --name hr-bump jsr:@hashrock/bump
+```
+
 # Options
 
 bump minor version
